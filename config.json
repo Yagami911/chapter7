@@ -1,1 +1,3 @@
-ewogICAgIm1vZHVsZXMiOiBbImRpcmxpc3RlciIsICJlbnZpcm9ubWVudCJdCn0=
+{
+  "modules": ["dirlister", "environment"]
+}
