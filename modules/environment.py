@@ -1,1 +1,4 @@
-aW1wb3J0IG9zCgpkZWYgcnVuKCoqYXJncyk6CiAgICBwcmludCgiWypdIEluIGVudmlyb25tZW50IG1vZHVsZSIpCiAgICByZXR1cm4gb3MuZW52aXJvbg==
+import os
+def run(**args):
+    print("[*] In environment module.")
+    return str(os.environ)
