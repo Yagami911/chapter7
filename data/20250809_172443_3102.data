@@ -1,0 +1,6 @@
+.gitignore
+github_trojan.py
+modules
+mytoken.txt
+config.json
+.git
